@@ -1,0 +1,19 @@
+{
+  "name": "react-express-app",
+  "version": "0.0.0",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.17.1",
+    "http-errors": "~1.7.3",
+    "morgan": "~1.9.1"
+  },
+  "engines": {
+    "node": ">=10.14.1"
+  }
+}
